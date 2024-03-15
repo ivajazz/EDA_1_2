@@ -13,3 +13,4 @@
 
 ## Библиотека для сбора статистики и расчета меры центральной тенденции statistics.
 
+statistics.mean(data), statistics.median(data)
